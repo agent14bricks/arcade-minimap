@@ -1,4 +1,4 @@
-# Minimaps ![Build status badge](https://github.com/microsoft/arcade-minimap/workflows/MakeCode/badge.svg)
+# Array of All Sprites ![Build status badge](https://github.com/microsoft/arcade-minimap/workflows/MakeCode/badge.svg)
 
 ## Use this extension
 
